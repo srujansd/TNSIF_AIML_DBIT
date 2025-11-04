@@ -1,4 +1,0 @@
-The web page used to test our model is running on our own computer, and its link is:
-
-
-http://localhost:8080/docs
